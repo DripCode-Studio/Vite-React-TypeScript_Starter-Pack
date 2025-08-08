@@ -7,8 +7,8 @@ This is a starter pack for building modern web applications with Vite, React, Ty
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Lil-Code30/Vite-React-TypeScript-TailwindCSS-shadcn-ui-_Starter-Pack.git
+cd Vite-React-TypeScript-TailwindCSS-shadcn-ui-_Starter-Pack
 npm install
 ```
 
@@ -22,13 +22,13 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to see the r
 
 ## ✨ Features
 
-*   ⚡️ [Vite](https://vitejs.dev/) for fast development and builds
-*   ⚛️ [React](https://reactjs.org/) for building user interfaces
-*   🔵 [TypeScript](https://www.typescriptlang.org/) for static typing
-*   💨 [TailwindCSS](https://tailwindcss.com/) for utility-first styling
-*   🎨 [shadcn/ui](https://ui.shadcn.com/) for accessible and customizable components
-*   📖 [ESLint](https://eslint.org/) for code linting
-*   💅 [Prettier](https://prettier.io/) for code formatting
+- ⚡️ [Vite](https://vitejs.dev/) for fast development and builds
+- ⚛️ [React](https://reactjs.org/) for building user interfaces
+- 🔵 [TypeScript](https://www.typescriptlang.org/) for static typing
+- 💨 [TailwindCSS](https://tailwindcss.com/) for utility-first styling
+- 🎨 [shadcn/ui](https://ui.shadcn.com/) for accessible and customizable components
+- 📖 [ESLint](https://eslint.org/) for code linting
+- 💅 [Prettier](https://prettier.io/) for code formatting
 
 ## 📁 Folder Structure
 
